@@ -1,7 +1,10 @@
 # Kaggle Titanic — Data Science & ML Practice (Local + WSL)
 
 This repository contains my local end-to-end workflow for the **Kaggle Titanic competition**, built in **WSL (Ubuntu) with a Python virtual environment**.
-
+  
+  
+Visit my Kaggle page: https://www.kaggle.com/daryla/competitions  
+  
 ## Project Structure
 Machine_Learning_Education/Projects/kaggle_titanic/  
 ├── data/  
