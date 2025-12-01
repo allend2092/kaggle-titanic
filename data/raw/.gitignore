@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep big/raw data out of git)
+data/raw/
+data/tmp/
+*.csv
+*.tsv
+*.parquet
+
+# OS/filesystem cruft
+.DS_Store
+Thumbs.db
+
+# VS Code & IDEs
+.vscode/
+.idea/
