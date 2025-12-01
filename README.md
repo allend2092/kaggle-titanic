@@ -2,15 +2,15 @@
 
 This repository contains my local end-to-end workflow for the **Kaggle Titanic competition**, built in **WSL (Ubuntu) with a Python virtual environment**.
 
-## 📁 Project Structure
-Machine_Learning_Education/Projects/kaggle_titanic/
-├── data/
-│ └── raw/ # Original Kaggle datasets (not committed to git)
-├── notebooks/
-│ └── daryls_kaggle_titanic.ipynb # EDA + XGBoost training pipeline
-├── src/ # Future Python modules & ML pipelines
-├── reports/ # Future analysis outputs / model evaluations
-└── README.md #
+## Project Structure
+Machine_Learning_Education/Projects/kaggle_titanic/  
+├── data/  
+│ └── raw/ # Original Kaggle datasets (not committed to git)  
+├── notebooks/  
+│ └── daryls_kaggle_titanic.ipynb # EDA + XGBoost training pipeline  
+├── src/ # Future Python modules & ML pipelines  
+├── reports/ # Future analysis outputs / model evaluations  
+└── README.md #  
 
 ## Completed Work
 - Downloaded data using the **Kaggle CLI**
@@ -28,7 +28,7 @@ I will continue iterating on:
 - Model experimentation (XGBoost, Random Forest, etc.)
 - Optional CI/CD workflows via GitHub Actions (not yet added)
 
-## nvironment
+## Environment
 | Component | Spec |
 |---|---|
 | OS | Windows 11 → WSL2 (Ubuntu) |
